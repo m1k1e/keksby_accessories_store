@@ -337,6 +337,11 @@ body {
   border-left: 3px solid #a38b70;
 }
 
+.review-item p {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
 .review-author {
   font-weight: bold;
   font-style: italic;
