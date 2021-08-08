@@ -406,6 +406,15 @@ body {
   margin-bottom: 20px;
 }
 
+.catalog-item .btn-info {
+  float: left;
+  clear: left;
+}
+
+.catalog-item .btn-buy {
+  float: right;
+}
+
 .price-list {
   width: 100%;
   border-collapse: collapse;
