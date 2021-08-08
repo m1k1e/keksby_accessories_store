@@ -369,8 +369,10 @@ body {
 
 .catalog-item {
   float: left;
-  width: 308px;
+  width: 262px;
   margin-right: 48px;
+  border: 1px solid #d8d8d8;
+  padding: 15px 22px;
 }
 
 .catalog-item:last-child {
