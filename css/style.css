@@ -317,6 +317,16 @@ body {
   padding-bottom: 90px;
 }
 
+.reviews .container {
+  position: relative;
+}
+
+.to-all-reviews {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 .review-item {
   float: left;
   width: 377px;
