@@ -406,6 +406,12 @@ body {
   margin-bottom: 20px;
 }
 
+.catalog-item .btn {
+  color: #ffffff;
+  background-color: #a38b70;
+  width: 101px;
+}
+
 .catalog-item .btn-info {
   float: left;
   clear: left;
