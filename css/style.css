@@ -400,6 +400,12 @@ body {
   margin-bottom: 20px;
 }
 
+.catalog-item-price {
+  float: right;
+  max-width: 55px;
+  margin-bottom: 20px;
+}
+
 .price-list {
   width: 100%;
   border-collapse: collapse;
