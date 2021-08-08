@@ -353,6 +353,16 @@ body {
   background-color: #f2f2f2;
 }
 
+.popular-and-price .container {
+  position: relative;
+}
+
+.to-catalog {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 .popular-items {
   margin-bottom: 50px;
 }
