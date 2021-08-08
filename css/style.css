@@ -373,10 +373,20 @@ body {
   margin-right: 48px;
   border: 1px solid #d8d8d8;
   padding: 15px 22px;
+  position: relative;
+  padding-top: 221px;
 }
 
 .catalog-item:last-child {
   margin-right: 0;
+}
+
+.catalog-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 206px;
+  width: 306px;
 }
 
 .catalog-item img {
