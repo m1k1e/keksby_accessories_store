@@ -503,6 +503,16 @@ body {
   margin-bottom: 15px;
 }
 
+.feedback-form-group-left-part {
+  float: left;
+  width: 290px;
+}
+
+.feedback-form-group-right-part {
+  float: right;
+  width: 290px;
+}
+
 .feedback-form-group label {
   display: inline-block;
   font-size: 12px;
