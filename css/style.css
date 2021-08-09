@@ -500,12 +500,14 @@ body {
 }
 
 .feedback-form-group {
-  padding: 10px 0;
+  margin-bottom: 15px;
 }
 
 .feedback-form-group label {
+  display: inline-block;
   font-size: 12px;
   text-transform: uppercase;
+  padding: 5px 0 5px 17px;
 }
 
 .feedback-form input[type="text"],
