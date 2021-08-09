@@ -475,6 +475,22 @@ body {
   padding-bottom: 70px;
 }
 
+.feedback .container {
+  position: relative;
+}
+
+.feedback .section-title {
+  max-width: 500px;
+}
+
+.feedback-tip {
+  position: absolute;
+  top: 0;
+  right: 0;
+  max-width: 500px;
+}
+
+
 .feedback-form {
   padding-right: 390px;
   background-image: url("img/write.jpg");
