@@ -453,11 +453,21 @@ body {
 
 .price-list .price-number {
   text-align: center;
+  width: 15px;
 }
 
 .price-list .price-name {
   font-weight: bold;
   color: #000000;
+  width: 422px;
+}
+
+.price-list .price-master {
+  width: 306px;
+}
+
+.price-list .price-cost {
+   width: 135px;
 }
 
 .feedback {
