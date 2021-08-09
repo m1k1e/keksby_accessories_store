@@ -412,6 +412,14 @@ body {
   width: 101px;
 }
 
+.catalog-item .btn:hover {
+  background-color: #8d745a;
+}
+
+.catalog-item .btn:active {
+  color: rgba(255, 255, 255, 0.3);
+}
+
 .catalog-item .btn-info {
   float: left;
   clear: left;
