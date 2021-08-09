@@ -560,6 +560,20 @@ body {
   margin-right: 5px;
 }
 
+.feedback-form .btn {
+  background-color: #a38b70;
+  color: #ffffff;
+  margin-top: 40px;
+}
+
+.feedback-form .btn:hover {
+  background-color: #8d745a;
+}
+
+.feedback-form .btn:active {
+  color: rgba(255, 255, 255, 0.3);
+}
+
 .page-footer {
   padding-top: 45px;
   padding-bottom: 50px;
