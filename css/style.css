@@ -493,7 +493,7 @@ body {
 
 .feedback-form {
   padding-right: 390px;
-  background-image: url("img/write.jpg");
+  background-image: url("../img/write.jpg");
   background-repeat: no-repeat;
   background-position: 100% 40px;
   width: 630px;
@@ -513,9 +513,13 @@ body {
 .feedback-form input[type="text"],
 .feedback-form select,
 .feedback-form textarea {
+  box-sizing: border-box;
   font: inherit;
   color: inherit;
   border: 2px solid #d5d5d5;
+  height: 54px;
+  padding: 9px 15px;
+  width: 100%;
 }
 
 .feedback-form input[type="text"]:hover,
