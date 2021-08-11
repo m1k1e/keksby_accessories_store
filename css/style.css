@@ -610,6 +610,7 @@ body {
 
 .footer-social {
   float: left;
+  font-size: 0;
   width: 490px;
 }
 
@@ -654,10 +655,40 @@ body {
   font-size: 24px;
   font-family: "Georgia", serif;
   color: #a38b70;
+  margin-right: 40px;
 }
 
 .social-btn {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-image: url(../img/sprite.png);
+  background-repeat: no-repeat;
+  display: inline-block;
+  vertical-align: middle;
   color: #ffffff;
+  height: 60px;
+  margin-right: 10px;
+  width: 60px;
+}
+
+.social-btn:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.social-btn:active {
+  border-color: #ffffff;
+  opacity: 0.1;
+}
+
+.social-btn-vk {
+  background-position: 16px -238px;
+}
+
+.social-btn-fb {
+  background-position: 19px -297px;
+}
+
+.social-btn-in {
+  background-position: 13px -358px;
 }
 
 .footer-copyright {
