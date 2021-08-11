@@ -696,6 +696,19 @@ body {
   float: right;
   text-transform: uppercase;
   width: 236px;
+  text-align: right;
+  margin-top: 17px;
+}
+
+.footer-copyright .heart {
+  display: inline-block;
+  background-image: url(../img/sprite.png);
+  background-repeat: no-repeat;
+  background-position: -5px -419px;
+  font-size: 0;
+  height: 24px;
+  vertical-align: middle;
+  width: 27px;
 }
 
 .footer-copyright a {
